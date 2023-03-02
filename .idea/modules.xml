@@ -2,8 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/AndroidGameTetris.iml" filepath="$PROJECT_DIR$/AndroidGameTetris.iml" />
-      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/AndroidGameTetris.iml" filepath="$PROJECT_DIR$/.idea/modules/AndroidGameTetris.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/AndroidGameTetris.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/AndroidGameTetris.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/AndroidGameTetris.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/AndroidGameTetris.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/AndroidGameTetris.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/AndroidGameTetris.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/AndroidGameTetris.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/AndroidGameTetris.app.unitTest.iml" />
     </modules>
   </component>
 </project>
